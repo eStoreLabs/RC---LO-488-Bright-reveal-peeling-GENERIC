@@ -592,19 +592,6 @@
   }
 }
 
-/* #es-loreal.es-loreal .es-tab1--item::before,
-#es-loreal.es-loreal .es-tab2--item::before {
-  content: '';
-  display: block;
-  position: absolute;
-  top: 8px;
-  left: -16px;
-  width: 5px;
-  height: 5px;
-  border: 1px solid var(--color-black);
-  border-radius: 50%;
-} */
-
 #es-loreal.es-loreal .es-tab1--bottom {
   margin-block: 32px;
   font-size: 24px;
@@ -711,19 +698,6 @@
 #es-loreal.es-loreal .es-slider__content {
   position: relative;
 }
-
-/* #es-loreal.es-loreal .es-slider__content::before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  width: 150px;
-  height: 150px;
-  border: 2px solid red; 
-  background-image: url("../images/beads_bg.png");
-  background-size: cover;
-  z-index: 2;
-} */
 
 #es-loreal.es-loreal .es-slider__slide {
   position: relative;
