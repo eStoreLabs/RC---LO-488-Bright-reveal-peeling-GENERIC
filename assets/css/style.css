@@ -1297,11 +1297,17 @@
 }
 
 @media screen and (min-width: 768px) {
+  #es-loreal.es-loreal .es-results__BA-group--number {
+    font-size: 54px;
+  }
+  #es-loreal.es-loreal .es-results__BA-group--text {
+    font-size: 22px;
+  }
   #es-loreal.es-loreal .es-slider__slide1--img {
     display: block;
-    max-width: 80%;
+    max-width: 100%;
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 20%;
   }
   #es-loreal.es-loreal .es-kv__photo--desktop {
     display: block;
@@ -1770,7 +1776,7 @@
     right: -4%;
     width: 220px;
     height: 220px;
-    background-image: url('../images/beads-1.png');
+    background-image: url('../images/beads-2.png');
     background-size: contain;
     background-repeat: no-repeat;
     z-index: 2;
